@@ -1,0 +1,7 @@
+﻿  game.c
+  main.c
+C:\Users\27801\source\repos\实训作业\实训作业\game.c(6,11): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\27801\source\repos\实训作业\实训作业\game.c(95,5): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\27801\source\repos\实训作业\实训作业\game.c(326,19): warning C4133: “函数”: 从“char [15]”到“LPCWSTR”的类型不兼容
+C:\Users\27801\source\repos\实训作业\实训作业\game.c(330,19): warning C4133: “函数”: 从“char [11]”到“LPCWSTR”的类型不兼容
+  正在生成代码...
